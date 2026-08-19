@@ -1,0 +1,9 @@
+{
+  "name": "security-test",
+  "version": "1.0.0",
+  "description": "GitHub dependency security lab",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
