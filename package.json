@@ -4,7 +4,7 @@
   "description": "GitHub dependency security lab",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.20",
+    "lodash": "4.18.1",
     "axios": "1.6.0"
   }
 }
